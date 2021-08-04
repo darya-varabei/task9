@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "novyj-chernyj-range-rover.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
